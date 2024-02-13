@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-color: #052428;
+  font-family: Century Gothic;
+}
+
+.main {
+  margin-top: 100px;
+  text-align: center;
+  color: white;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content button {
+  font-family: century gothic;
+  color: white;
+}
+.content button a {
+  font-family: century gothic;
+  color: white;
+  text-decoration: none;
+}
+#imgContainer {
+  margin: 10px;
+}
+#imgId {
+  width: 300px;
+  height: auto;
+  border: 2px solid black;
+}

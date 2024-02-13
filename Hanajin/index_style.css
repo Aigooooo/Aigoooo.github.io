@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background-color: #052428;
+  font-family: Century Gothic;
+  height: 100vh; /* Make the body take up the full height of the viewport */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  text-align: center;
+  color: white;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
